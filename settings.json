@@ -1,0 +1,6 @@
+{
+    "window.restoreWindows": "none",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all"
+}
