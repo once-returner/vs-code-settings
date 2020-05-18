@@ -6,5 +6,6 @@
     "window.titleBarStyle": "custom",
     "editor.minimap.maxColumn": 50,
     "editor.minimap.renderCharacters": false,
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "window.zoomLevel": 1.0
 }
