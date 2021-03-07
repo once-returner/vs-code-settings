@@ -12,5 +12,9 @@
     "git.autofetch": false,
     "autoDocstring.quoteStyle": "'''",
     "explorer.compactFolders": false,
-    "editor.rulers": [80]
+    "editor.rulers": [
+        80
+    ],
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
 }
